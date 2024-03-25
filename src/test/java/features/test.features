@@ -1,0 +1,17 @@
+Feature: Categoria Comics
+  Como usuario quiero leer chistes de tester
+
+  Scenario: Ingresar a comics desde la pantalla home
+
+    Given    El usuario esta en home page
+    When     Hace click sobre el boton de comics
+    Then     Se debe redirigir a la pantalla comics
+
+
+   Scenario: Ingresar a comics desde la pantalla home
+
+      Given    El usuario esta en home page
+      When     Hace click sobre el boton de comics
+      Then     Se debe redirigir a la pantalla comics
+
+
